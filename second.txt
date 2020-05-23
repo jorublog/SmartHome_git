@@ -1,2 +1,7 @@
 3回目
 git rm
+git log
+    git log　--oneline
+    git log -p xxx.html
+    git log -n 3
+    git diff
